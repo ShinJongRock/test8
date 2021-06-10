@@ -46,4 +46,4 @@ BlockQuote
 - Link:[Dossa](http://corearoadbike.com/, "도싸")
 
 * 외부링크: <http://corearoadbike.com/>
-* 이메일링크: <>
+* 이메일링크: <https://mail.google.com/mail/u/0/>
