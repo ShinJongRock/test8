@@ -43,8 +43,8 @@ BlockQuote
 ----------------------------
 
 - 링크 참조
-- Link: [Doss][Doss]
-- [Dossa]: http://corearoadbike.com/ "도싸"
+Link: [google][googlelink]
+[googlelink]:https://google.com "Go google"
 
 * 외부링크: <http://corearoadbike.com/>
 * 이메일링크: <https://mail.google.com/mail/u/0/>
