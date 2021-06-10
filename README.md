@@ -67,4 +67,5 @@ BlockQuote
 
 ![Alt text](https://postfiles.pstatic.net/MjAyMTA2MTBfMTYy/MDAxNjIzMzA3MTU0ODQ4.CJNbPgBfOr4FIkG3vQ7lr4YFA7bHX9Vy8rjVsCTUgjsg.SucOuNzg6OQRYNd_uMAAz8p96ibr1NJIzuaeWYqcWuIg.JPEG.cgj3119/KakaoTalk_20210610_153817976.jpg?type=w773)
 
-<img src="(https://postfiles.pstatic.net/MjAyMTA2MTBfMTYy/MDAxNjIzMzA3MTU0ODQ4.CJNbPgBfOr4FIkG3vQ7lr4YFA7bHX9Vy8rjVsCTUgjsg.SucOuNzg6OQRYNd_uMAAz8p96ibr1NJIzuaeWYqcWuIg.JPEG.cgj3119/KakaoTalk_20210610_153817976.jpg?type=w773)" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
+<img src="(https://postfiles.pstatic.net/MjAyMTA2MTBfMTYy/MDAxNjIzMzA3MTU0ODQ4.CJNbPgBfOr4FIkG3vQ7lr4YFA7bHX9Vy8rjVsCTUgjsg.SucOuNzg6OQRYNd_uMAAz8p96ibr1NJIzuaeWYqcWuIg.JPEG.cgj3119/KakaoTalk_20210610_153817976.jpg?type=w773)" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
